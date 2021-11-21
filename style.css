@@ -1,0 +1,81 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(file:///C:/Users/Giovanni/Desktop/Boolean/Coding_Challenge/background.jpg);
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.Container{
+  background-color: rgba(0,0,0,0.5); /*nero_trasparenza*/
+  border-radius: 20px;
+  padding: 100px;
+}
+
+header{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #00dd00; /*verdino*/
+}
+
+#Logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+nav{
+  padding: 10px;
+  text-align: center;
+  background-color: #00dd00; /*verdino*/
+}
+
+main{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #ffffff; /*bianco*/
+}
+
+#Titolo{
+  font-size: 20px;
+}
+
+#Sottotitolo{
+  font-weight: lighter;
+}
+
+section{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.rect_01{
+  border-radius: 5px;
+  padding: 15px;
+  width: 300px;
+  background-color: #f5b453; /*giallo*/
+}
+
+.rect_02{
+  border-radius: 5px;
+  padding: 15px;
+  width: 600px;
+  background-color: #1ec31e; /*verde*/
+}
+
+.rect_03{
+  border-radius: 5px;
+  padding: 15px;
+  width: 150px;
+  background-color: #be4141; /*rosso*/
+}
